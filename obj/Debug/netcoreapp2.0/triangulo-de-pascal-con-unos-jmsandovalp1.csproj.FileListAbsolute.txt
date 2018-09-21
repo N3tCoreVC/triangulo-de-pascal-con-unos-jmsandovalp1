@@ -1,0 +1,11 @@
+C:\Aplicaciones\triangulo-de-pascal-con-unos-jmsandovalp1\bin\Debug\netcoreapp2.0\triangulo-de-pascal-con-unos-jmsandovalp1.deps.json
+C:\Aplicaciones\triangulo-de-pascal-con-unos-jmsandovalp1\bin\Debug\netcoreapp2.0\triangulo-de-pascal-con-unos-jmsandovalp1.runtimeconfig.json
+C:\Aplicaciones\triangulo-de-pascal-con-unos-jmsandovalp1\bin\Debug\netcoreapp2.0\triangulo-de-pascal-con-unos-jmsandovalp1.runtimeconfig.dev.json
+C:\Aplicaciones\triangulo-de-pascal-con-unos-jmsandovalp1\bin\Debug\netcoreapp2.0\triangulo-de-pascal-con-unos-jmsandovalp1.dll
+C:\Aplicaciones\triangulo-de-pascal-con-unos-jmsandovalp1\bin\Debug\netcoreapp2.0\triangulo-de-pascal-con-unos-jmsandovalp1.pdb
+C:\Aplicaciones\triangulo-de-pascal-con-unos-jmsandovalp1\obj\Debug\netcoreapp2.0\triangulo-de-pascal-con-unos-jmsandovalp1.csprojResolveAssemblyReference.cache
+C:\Aplicaciones\triangulo-de-pascal-con-unos-jmsandovalp1\obj\Debug\netcoreapp2.0\triangulo-de-pascal-con-unos-jmsandovalp1.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\triangulo-de-pascal-con-unos-jmsandovalp1\obj\Debug\netcoreapp2.0\triangulo-de-pascal-con-unos-jmsandovalp1.AssemblyInfoInputs.cache
+C:\Aplicaciones\triangulo-de-pascal-con-unos-jmsandovalp1\obj\Debug\netcoreapp2.0\triangulo-de-pascal-con-unos-jmsandovalp1.AssemblyInfo.cs
+C:\Aplicaciones\triangulo-de-pascal-con-unos-jmsandovalp1\obj\Debug\netcoreapp2.0\triangulo-de-pascal-con-unos-jmsandovalp1.dll
+C:\Aplicaciones\triangulo-de-pascal-con-unos-jmsandovalp1\obj\Debug\netcoreapp2.0\triangulo-de-pascal-con-unos-jmsandovalp1.pdb
